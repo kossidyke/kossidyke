@@ -6,7 +6,7 @@
 2) > MAKING A COMMIT: This command simply means saving the changes you made to your files
     ![](git/gitcommit.png)
 
-3) > MAKING A BRANCH: The git branch commands primary functions are to create, list, rename and delete branches
+3) > MAKING A BRANCH: The git branch commands primary functions are to create, list and delete branches
     ![](git/gitbranch.png)
 
 4) > MERGING A BRANCH: The git merge command is used to merge a development branch into the current branch
