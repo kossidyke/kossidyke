@@ -13,7 +13,7 @@
     ![](git/gitmerge.png)
 
 5) > DELETING A BRANCH: This command is run when a branch has served its purpose and needs to be removed
-    ![](git/gitdelete.png)
+    ![](git/gitdelete.png) 
 
 
 ## PUSHING YOUR LOCAL REPOSITORY TO YOUR REMOTE GITHUB REPOSITORY
